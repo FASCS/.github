@@ -1,5 +1,5 @@
 # Welcome to FASCS profile web page
-![FASCS banner image](FASCS.jpg)
+![FASCS banner image](https://raw.githubusercontent.com/FASCS/.github/d572e10cd0c5cb6f8dcc78389d311a51b3532a91/profile/FASCS.jpg)
 
 <!--
 
