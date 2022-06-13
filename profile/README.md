@@ -1,5 +1,5 @@
 # Welcome to FASCS profile web page
-
+![FASCS banner image](FASCS.jpg)
 
 <!--
 
