@@ -1,5 +1,15 @@
 # Welcome to FASCS profile web page
 ![FASCS banner image](https://raw.githubusercontent.com/FASCS/.github/d572e10cd0c5cb6f8dcc78389d311a51b3532a91/profile/FASCS.jpg)
+## About our projects
+We making use(ful/less) computer software.  
+If our project created on compiling language like C family, we must to put release build.  
+If You found an unexepted behavior of our program contact to us.
+If You have wishes, complaints, suggestions, You can write in a discussion in "discussion" repository.  
+  
+  
+## Contact about our project
+You can contact with us by creating a Github Issue or Discussions program  
+
 
 <!--
 
