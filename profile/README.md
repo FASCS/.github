@@ -1,5 +1,5 @@
 # Welcome to FASCS profile GitHub page
-![FASCS banner image](https://raw.githubusercontent.com/FASCS/.github/d572e10cd0c5cb6f8dcc78389d311a51b3532a91/profile/FASCS.jpg)
+![FASCS banner image](https://raw.githubusercontent.com/FASCS/.github/main/profile/FASCS.jpg)
 ## About our projects
 We making use(ful/less) computer software.  
 If our project created on compiling language like C family, we must to put release build.  
